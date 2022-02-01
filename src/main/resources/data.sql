@@ -1,0 +1,3 @@
+INSERT INTO user (name, surname, birthday, email, newsletter) VALUES ('Adam', 'Adamski', '1998-02-10', 'a.adamski@gmail.com', '1');
+INSERT INTO user (name, surname, birthday, email, newsletter) VALUES ('Bartosz', 'Bartycki', '1994-03-20', 'b.bartycki@gmail.com', '0');
+INSERT INTO user (name, surname, birthday, email, newsletter) VALUES ('Grzegorz', 'Grzewicki', '2022-01-30', 'g.grzewicki@gmail.com', '0');
